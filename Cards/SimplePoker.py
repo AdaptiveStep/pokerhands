@@ -34,8 +34,7 @@ class GameEngine():
 
         ╚═════════════════════════════════════════════╝""")
 
-#Super new comment hehehe
-#what is this
+#Last tester do it do it do it!
 
         elif menu == 2:
             pass
